@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Um pequeno projeto desenvolvido pelo ALURA como desafio de prática. Ele gera um número aleatório entre 1 e 10 e permite que o usuário adivinhe o número secreto, fornecendo feedback sobre se o chute foi maior ou menor. O código inclui funções para exibir mensagens na tela, verificar chutes, limpar o campo de entrada e reiniciar o jogo, garantindo que cada número aleatório gerado seja único até que todos os números possíveis sejam sorteados.</p>
 
 ## 🚀 Tecnologias
 <div>
